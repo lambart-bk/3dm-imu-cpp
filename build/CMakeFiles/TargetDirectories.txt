@@ -1,0 +1,4 @@
+/home/yushan/catkin_tempws/src/microstrain_3dmgx2_imu-indigo-devel/build/CMakeFiles/rebuild_cache.dir
+/home/yushan/catkin_tempws/src/microstrain_3dmgx2_imu-indigo-devel/build/CMakeFiles/edit_cache.dir
+/home/yushan/catkin_tempws/src/microstrain_3dmgx2_imu-indigo-devel/build/CMakeFiles/imu_node.dir
+/home/yushan/catkin_tempws/src/microstrain_3dmgx2_imu-indigo-devel/build/CMakeFiles/3dmgx2.dir

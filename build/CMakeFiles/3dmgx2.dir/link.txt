@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib3dmgx2.a  CMakeFiles/3dmgx2.dir/src/3dmgx2.cc.o
+/usr/bin/ranlib lib3dmgx2.a

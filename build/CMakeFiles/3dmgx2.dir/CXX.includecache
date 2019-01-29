@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/microstrain_3dmgx2_imu/3dmgx2.h
+fstream
+-
+stdexcept
+-
+stdint.h
+-
+
+/home/yushan/catkin_tempws/src/microstrain_3dmgx2_imu-indigo-devel/src/3dmgx2.cc
+assert.h
+-
+errno.h
+-
+fcntl.h
+-
+math.h
+-
+stdio.h
+-
+string.h
+-
+sys/stat.h
+-
+termios.h
+-
+unistd.h
+-
+netinet/in.h
+-
+stdlib.h
+-
+sys/time.h
+-
+microstrain_3dmgx2_imu/3dmgx2.h
+/home/yushan/catkin_tempws/src/microstrain_3dmgx2_imu-indigo-devel/src/microstrain_3dmgx2_imu/3dmgx2.h
+poll.h
+/home/yushan/catkin_tempws/src/microstrain_3dmgx2_imu-indigo-devel/src/poll.h
+

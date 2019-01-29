@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/imu_node.dir/src/imu_node.cc.o  -o imu_node -rdynamic lib3dmgx2.a 
